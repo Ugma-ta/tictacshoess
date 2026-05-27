@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import tkinter as tk
 from tkinter import messagebox
 
@@ -88,3 +89,6 @@ reset_btn.grid(row=3, column=0, columnspan=3, pady=20)
 # Run app
 root.mainloop()
 tk.tk
+=======
+
+>>>>>>> 2fda092a3f4f8f403c843154b29d8a1a73d76d23
